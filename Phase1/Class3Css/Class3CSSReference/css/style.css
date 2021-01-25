@@ -1,0 +1,76 @@
+/* In your every css file,
+you should have this too 
+ */
+* {
+  padding: 0;
+  margin: 0;
+}
+/* In your every css file you should have this; this means the image 
+max width has to be the container size
+ */
+img {
+  max-width: 100%;
+}
+.puppy-lovers-header {
+  background-color: rgb(0, 162, 255);
+  text-align: center;
+  /* padding-top: 0ex; */
+}
+.puppy-lovers-header h3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.puppy-banner img {
+  max-width: 700%;
+  max-height: 50%;
+  margin-right: inherit;
+}
+.three-puppies-wrapper {
+  display: flex;
+  top: 100px;
+  left: 200px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  padding-left: 200px;
+  width: 1000px;
+}
+.right-puppy {
+  height: 427.06px;
+  margin-right: 10px;
+}
+.missing-puppy {
+  text-align: center;
+  width: 520px;
+  height: 427.06px;
+  margin-right: 10px;
+  /* text-overflow: clip; */
+}
+.left-puppy {
+  padding-top: 100px;
+  height: 427.06px;
+  /* width: 520px; */
+}
+.last-left-puppy {
+  display: inline-block;
+  margin-bottom: 50px;
+  /* width: 520px; */
+}
+.last-right-puppy {
+  display: inline-block;
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
+.more {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.footer {
+  background-color: rgb(0, 162, 255);
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+.red {
+  background-color: lightcoral;
+}

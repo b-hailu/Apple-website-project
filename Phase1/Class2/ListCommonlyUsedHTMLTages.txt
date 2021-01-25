@@ -1,0 +1,18 @@
+: HTML tag, used to specify that the document is html : Head tag, used to contain all the head elements - Head elements - title, style, meta, etc... : Body tag, used to define the body of html document : Title tag, it is used to define the title of html document
+,
+,
+,
+,
+,
+: Heading tag, used to define the heading of html document
+: Paragraph tag, used to define paragraph content : Emphasis tag, used to render as emphasized text : Bold tag, used to specify bold content : Italic tag, used to write the content in italic format : Small (text) tag, used to set the small font size of the content : Underline tag, It is used to set the content underline : Deleted text tag, It is used to represent as deleted text. It cross the text content. : Anchor tag: It is used to link one page to another page.
+: List tag: It is used to list the content
+: Ordered List tag: It is used to list the content in a particular order
+: Unordered List tag: It is used to list the content without order : Comment tag: It is used to set the comment in html document. It is not visible on the browser.
+: Center tag: It is used to set the content into the center
+: Line break tag: It is used to break the line : Image tag: It is used to add image element in html document Link tag: It is used to link the content from external source
+: Horizontal rule tag: It is used to display the horizontal line in html document : Meta tag: It is used to specify the page description Tables Tags:
+: Table tag is used to create a table in html document : Tr tag: It is used to define row of html table : Th tag: It defines the header cell in a table : Td tag: It defines the standard cell Input Tags:
+: Form tag: It is used to create html form 
+: Submit input tag: It is used to take the input from the user - Radio & Checkbox inputs are also part of this: Dropdown option tag: It is used to select an option from a drop-down list 
+: Video tag : iFrame, used to embed external url with in another page

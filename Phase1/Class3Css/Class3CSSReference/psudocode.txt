@@ -1,0 +1,156 @@
+The HTML element and container that we need to do a puppy page
+
+body tag. inside body tag, we need containers
+header
+section
+div
+footer
+
+
+inside header 
+    -section
+    -div
+section 
+    -div
+    -image
+/section
+section
+    div
+        div
+        div
+        div
+    /div
+/section
+section
+    div
+        title
+        div
+        div
+    /div
+/section
+section
+    footer
+        div
+/section
+
+
+psudocode for Apple site
+
+header
+section
+div
+footer
+   
+     header
+      internal wrapper- div
+        logo-div
+        list - div
+        search-div
+        cart-div
+    /header
+
+    section
+    internal wrapper-div
+       div-model
+       div-title
+       div-discription
+       div-price
+       div-link
+       div-image
+    /section
+
+    section
+       internal wrapper-div
+          title-div
+          discription-div
+          price-div
+          link-div
+          image-div
+    /section
+    
+    section
+       internal wrapper-div
+          title-div
+          discription-div
+          price-div
+          link-div
+          image-div
+    /section
+
+    section
+       internal wrapper forth-div
+            inside wrapper-div
+                logo-div
+                re
+                dwriting-div
+                discription-div
+                link-div
+                image-div
+                /div
+                title-div
+                discription-div
+                link-div
+                image-div
+            /inside wrapper-div
+        /internal wrapper forth-div
+    /section
+
+    section
+        internal wrapper fifth-div
+            inside wrapper-div
+                logo-div
+                image-div
+                      -div
+                title-div
+                      -div
+                /div
+                title-div
+                discription-div
+                link-div
+                image-div
+            /inside wrapper-div
+        /internal wrapper fifth-div
+    /section
+
+    section
+       internal wraper sixth
+            inside wraper-div
+                logo-div
+                discription-div
+                another discription-div
+                link-div
+                image-div
+                /div
+                logo-div
+                discription-div
+                another discription-div
+                link-div
+                image-div
+            /inside wraper-div
+        /internal wraper sixth
+    section 
+
+    footer
+       internal wrapper-div
+           paragraph1-div
+           paragraph2-div
+           horizontal line-div
+           list-div
+              link1-div
+              link2-div
+              link3-div
+              link4-div
+              link5-div
+            paragraph link-div
+            horizontal line-div
+            copyright tearm link-div
+
+
+
+
+
+    
+
+       
+
+
